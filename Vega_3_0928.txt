@@ -1,0 +1,1 @@
+You can count in Java with Iteration, you can check if a number is divisible by if it equals zero then thay are divisible. 
