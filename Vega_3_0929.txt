@@ -1,0 +1,3 @@
+A method is a systematic procedure for accomplishing something. 
+They are good for solving problems and primes. 
+You can use methods to solve primes by aking a program.
