@@ -1,0 +1,7 @@
+October 6, 2015
+
+Methods are a set of codes in a programs and tells it what to do, like names.
+Classes are things that define a program, like a container with a purpose to
+hold multiple things within a main class.
+an instance is a variable defined in a class.
+Class Methods are running diffrent programs.
