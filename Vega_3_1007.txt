@@ -1,0 +1,3 @@
+A java class is like a template where individual objects are made and created.
+A java class for a java fx might be multipe classes like boolean or button that you use in javafx.
+A method for a class might be a procedures within a class.
