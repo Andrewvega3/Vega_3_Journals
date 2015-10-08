@@ -1,0 +1,14 @@
+My tentative thoughts for my art project is that it will be challenge to try
+but it will also be fun to try something diffrent.
+
+What methods i might use is  will experiment with them and i will try to make
+it look cool.
+
+I will incorporate a for loop by coping the same format as the other project 
+we did yesterday but will do other methods.
+
+I will incorporate a if, else if, else by trying to put it in places that make
+since.
+
+What math i might use is try to make it fit the shapes where i want it and
+use numbers to see where it goes.
