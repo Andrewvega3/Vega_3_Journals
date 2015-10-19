@@ -1,0 +1,7 @@
+Im almost done with my methods. what i wanted to do is make a american flag 
+and i typed a method for rectangles and stripes and stars for the flag. I 
+noticed the art method code was shared in the journals and i just used it as a
+refrence.
+private void drawShapes(GraphicsContext gc) {
+    gc.setFill(Color.RED);
+    gc.fillRoundRect(110, 60, 30, 30, 10, 10);
