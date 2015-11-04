@@ -1,0 +1,9 @@
+-A method is a procedure of systematic codes like we use in the Guessing Game 
+project such as public static.
+-Methods that I use in the Guessing Game is Scanners and else, if and while 
+loops.
+-A while loop is a code that is able to be repeated and its important to use 
+in the guessing game because without it the program would just finish after 
+one guess.
+-I mostly used the while loop in the guessing game and i didnt use a boolean 
+or a counter. 
