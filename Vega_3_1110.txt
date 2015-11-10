@@ -1,0 +1,4 @@
+In my game I can track what challenges the player has solved by having several
+labels and if one is completed then the player goes on to the next one.
+How I can track HP is by if the player goes down a certain path then the HP 
+will either be deducted or not and goes the same for the items. 
