@@ -1,0 +1,4 @@
+You use while loops in a game for having lives or if you lose the game you
+have to start it over.
+How you'll use methods in a game is by having static int or strings and 
+booleans and voids
