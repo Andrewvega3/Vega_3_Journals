@@ -1,0 +1,6 @@
+In my game the challenges my player wil solve is choosing the correct path
+if they choose the wrong one then there dead.
+I will use while and if else loops to track whether the player has solved the 
+challenge.
+I'll use
+int, while, static void, else if
