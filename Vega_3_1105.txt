@@ -1,0 +1,4 @@
+Strings is for java and used in programming and there good for scanners or
+methods.
+String methods are strings but using them as methods.You identify string 
+methods by using static.
