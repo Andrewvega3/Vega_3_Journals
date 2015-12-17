@@ -1,0 +1,4 @@
+My guessing game is a game because you have 5 lives to guess the right anwser
+and if you get one wrong then you subtract one life until you lose or you win. 
+The anwser are random. What would make it better would making it loop back if 
+you lose the game.
