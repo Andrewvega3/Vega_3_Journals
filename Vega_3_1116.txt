@@ -1,0 +1,4 @@
+How i'll use methods in my game is by using System.out.println("") and if, else loops because if the
+user chooses to go somewhere then theyll go there but if not then else then 
+theyll go a diffrent way or do something else. i'll use values such as static
+void and answer = cesarneedsinfo.nextLine(); to pass the methods.
