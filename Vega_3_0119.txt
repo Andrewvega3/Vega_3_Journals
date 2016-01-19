@@ -1,0 +1,8 @@
+i created a mazish game where you have to survive from multipe enemies 
+attacking you and you can collect health potions to heal up.
+challenges i solved was making the game work with my map.
+when i got back i didnt even start on my map yet but i still finished it on 
+time.
+I wasnt able to meet the timeline because im still trying to make the enemys 
+to have have lives and be able to attack you and for the player to attack the
+enemy.
