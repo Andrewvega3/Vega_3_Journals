@@ -1,0 +1,4 @@
+what i did to complete the game was i made a map and diffrent enemies through
+out the map that made it more challenging for the player. I still didnt get to
+finish because i need to make the enemies harm the player and take damage when
+the player attacks.
