@@ -1,0 +1,5 @@
+What ive done to complete my game was I made diffrent enemies throughout the 
+map that would attack you if it saw you but i didnt get to finish because i 
+dont know how to mae a enemie attack you and take damage.
+My problem solving process was if there was a problem then id ask for help if
+I couldnt figure it out by myself.
