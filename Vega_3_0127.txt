@@ -1,0 +1,10 @@
+To add an image in a slick game it demands on the image, whether it is a map
+or a sprite character; if you make a slick image then you add the file it is
+located in your files under netbeans and in the file in netbeans where you
+want to make your image appear than you add the image into the file so you go
+into your file and if the file is under res for an example than put "res/what
+ever you named the file picture and .png" at the end. But if you want it to be 
+in a certain area than after the quotations than put a coma than the corridinates
+location you want it to be and than add, 0);
+But before the all the "res you add SpriteSheet runningSS = new SpriteSheet( 
+than you put all that in there.
