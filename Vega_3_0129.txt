@@ -1,0 +1,6 @@
+A class constructor is used to make objects and a class is the template used to
+make objects.
+booleans should be included in a class constructor for orbs because it makes 
+game work
+methods such as int, private and booleans should have for orbs because it 
+keeps the game working.
