@@ -1,0 +1,3 @@
+what i'll do to clean up my code to make the program more of my own, i'll 
+change some of the variables and names in the program to make it more of my 
+own.
