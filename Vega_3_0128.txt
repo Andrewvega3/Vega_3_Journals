@@ -1,0 +1,6 @@
+What is this?
+public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
+throws SlickException {
+
+This is a method and what it does is that it renders a slick where your able 
+to move and see your character.
